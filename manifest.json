@@ -258,6 +258,8 @@
         "*://amazon.jo/*",
         "*://*.amazon.jp/*",
         "*://amazon.jp/*",
+        "*://*.amazon.co.jp/*",
+        "*://amazon.co.jp/*",
         "*://*.amazon.ke/*",
         "*://amazon.ke/*",
         "*://*.amazon.kg/*",
